@@ -4,9 +4,9 @@
 <img src="demo.jpg" width="75%"></img>
 </p>
 
-> Figure: result of `python3 example6.py`. Please replace the image above (`demo.jpg`) with yours, so that other people can immediately see your results :-)
+> Figure: Rose of Rose Curve 玫瑰线的玫瑰花
 
-We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
+My  [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
 
 Rules:
 
@@ -67,3 +67,20 @@ Mouse and keyboard interface:
 ## Show your artwork 
 
 Please put your artwork at the beginning of this README file. Replacing the `demo.jpg` file with your creation will do the job.
+
+
+
+## 故事
+
+过几天是520，
+
+但身在上海，没法准备礼物。
+
+想起你曾经说过，你可是程序员，
+
+并丢来网上代码画玫瑰花的新闻。
+
+那就给你画一朵玫瑰花，
+
+玫瑰线画的玫瑰花。
+
